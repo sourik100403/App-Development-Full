@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">chapter 3 practice</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="concern">Concern</string>
+    <string name="adress">Adress</string>
+    <string name="phone">phone</string>
+    <string name="submet">Submet</string>
+    <string name="email">Email</string>
+</resources>

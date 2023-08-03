@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practice set</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_java_quize">Welcome To Java Quize</string>
+</resources>
